@@ -3,6 +3,11 @@ package edu.cuboulder.csci44485448.payroll;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+	Jacob Felknor
+	CSCI 4448
+ */
+
 public class Main {
 	
 	private static List<Employee> employees = new ArrayList<Employee>();
